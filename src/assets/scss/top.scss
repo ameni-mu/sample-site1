@@ -1,0 +1,14 @@
+@charset "UTF-8";
+@import "reset";
+@import "./mixin/config";
+@import "./mixin/common";
+@import "./mixin/mediaquery";
+@import "./mixin/vwsize";
+@import "./component/header";
+@import "./component/share";
+@import "./component/footer";
+@import "./component/btn";
+
+.top {
+  background-color: #fc2;
+}

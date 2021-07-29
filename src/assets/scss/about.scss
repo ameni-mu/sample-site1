@@ -1,0 +1,14 @@
+@charset "UTF-8";
+@import "reset";
+@import "./mixin/config";
+@import "./mixin/common";
+@import "./mixin/mediaquery";
+@import "./mixin/vwsize";
+@import "~animate.css/source/animate.css";
+html,
+body {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
